@@ -16,9 +16,7 @@ The app was created for **Cora**, who has been struggling to maintain social con
 
 ## 🎬 Video Demonstration
 
-📺 [Watch the app demonstration video here](YOUR_VIDEO_LINK_HERE)
-
-> *Replace the link above with your YouTube/video link before submission*
+📺 [Watch the app demonstration video here](https://youtu.be/0Xfwe8Oy064?si=EXAQkLXAgSorOi0h)
 
 ---
 
