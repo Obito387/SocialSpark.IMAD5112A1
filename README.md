@@ -211,4 +211,10 @@ The app has been manually tested on the Android emulator to verify:
 
 ---
 
+## 🔗 Author
+
+Thabelo Thanyani
+
+---
+
 *Developed for IMAD5112 - Introduction to Mobile Application Development*
